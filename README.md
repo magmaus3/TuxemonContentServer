@@ -8,7 +8,7 @@ This project is intended to be used with the Tuxemon's mod manager.
 Setting up
 -------------
 ```bash
-git clone https://github.com/vXtreniusX/TuxemonContentServer # Cloning the repository
+git clone https://github.com/magmaus3/TuxemonContentServer # Cloning the repository
 pip3 install -U -r requirements.txt
 ```
 
